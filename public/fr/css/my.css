@@ -1,0 +1,23 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-dark{
+    background-color: #171717 !important;
+}
+
+hr{
+    width: 20%;
+}
+
+.ws{
+    border-radius: 15px;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: #171717;
+    color: white;
+}
+
